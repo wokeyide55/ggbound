@@ -1,5 +1,3 @@
-[TOC]
-
 #  如何在github上写出漂亮的readme.md
 
 ## :black_nib: 问题描述:pencil2:
